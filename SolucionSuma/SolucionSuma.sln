@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSuma", "WebSuma\WebSuma.csproj", "{D196EF9A-FFA7-4DC3-A119-A12CAE812D59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D196EF9A-FFA7-4DC3-A119-A12CAE812D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D196EF9A-FFA7-4DC3-A119-A12CAE812D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D196EF9A-FFA7-4DC3-A119-A12CAE812D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D196EF9A-FFA7-4DC3-A119-A12CAE812D59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {153CD0BA-710D-4FF9-B483-B30301D6F9A4}
+	EndGlobalSection
+EndGlobal
